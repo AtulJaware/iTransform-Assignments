@@ -3,6 +3,7 @@ package org.core_java.basic_data_structure;
 import java.util.Scanner;
 
 public class ArmstrongNumber {
+    // Find out given number is armstrong or not
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         int num=sc.nextInt();
