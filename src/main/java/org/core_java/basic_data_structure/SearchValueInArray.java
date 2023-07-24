@@ -1,5 +1,4 @@
 package org.core_java.basic_data_structure;
-
 import java.util.Scanner;
 
 public class SearchValueInArray {
